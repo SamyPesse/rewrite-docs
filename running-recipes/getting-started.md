@@ -1,12 +1,12 @@
 ---
 description: >-
-  [TEST] This guide covers configuring OpenRewrite with Maven or Gradle and
+  [TEST 2] This guide covers configuring OpenRewrite with Maven or Gradle and
   using it to run refactoring recipes.
 ---
 
-# \[TEST] Quickstart: Setting up your project and running recipes
+# \[TEST 2] Quickstart: Setting up your project and running recipes
 
-\[TEST] To help orient you to OpenRewrite, let's walk through configuring a project to use the Maven or Gradle rewrite plugin. Then let's walk through running various types of recipes on said project and talk through the results.
+\[TEST 2] To help orient you to OpenRewrite, let's walk through configuring a project to use the Maven or Gradle rewrite plugin. Then let's walk through running various types of recipes on said project and talk through the results.
 
 In this guide you will:
 

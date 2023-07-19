@@ -2,7 +2,10 @@
 
 * [Introduction to OpenRewrite](introduction.md)
 * [Running Recipes](running-recipes/running-recipes.md)
-  * [\[TEST\] Quickstart: Setting up your project and running recipes](running-recipes/getting-started.md)
+  * [\[TEST 2\] Quickstart: Setting up your project and running recipes](running-recipes/getting-started.md)
+  * [Inserted here](running-recipes/inserted-here.md)
+  * [Another page](running-recipes/another-page.md)
+  * [Another Page again](running-recipes/another-page-again.md)
   * [Running Rewrite on a Gradle project without modifying the build](running-recipes/running-rewrite-on-a-gradle-project-without-modifying-the-build.md)
   * [Running Rewrite on a Maven project without modifying the build](running-recipes/running-rewrite-on-a-maven-project-without-modifying-the-build.md)
   * [Running Rewrite without build tool plugins](running-recipes/running-rewrite-without-build-tool-plugins.md)
