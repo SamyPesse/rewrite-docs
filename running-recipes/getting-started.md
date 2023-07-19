@@ -6,7 +6,12 @@ description: >-
 
 # \[TEST 2] Quickstart: Setting up your project and running recipes
 
-\[TEST 2] To help orient you to OpenRewrite, let's walk through configuring a project to use the Maven or Gradle rewrite plugin. Then let's walk through running various types of recipes on said project and talk through the results.
+This quick start guide hello world assumes that you:
+
+* Are somewhat familiar with Java
+* Have worked with a Maven or a Gradle project before
+* Know how to run commands in the command line
+* Can run basic Git commands
 
 In this guide you will:
 
@@ -19,12 +24,7 @@ In this guide you will:
 
 ## Prerequisites
 
-This quick start guide assumes that you:
-
-* Are somewhat familiar with Java
-* Have worked with a Maven or a Gradle project before
-* Know how to run commands in the command line
-* Can run basic Git commands
+\[TEST 2] To help orient you to OpenRewrite, let's walk through configuring a project to use the Maven or Gradle rewrite plugin. Then let's walk through running various types of recipes on said project and talk through the results.
 
 ## Step 1: Clone sample project
 
